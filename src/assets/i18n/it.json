@@ -84,7 +84,7 @@
 		"to_correct": "Da correggere"
 	},
 	"header": {
-    "exit_full_screen_mode": "TO TRANSLATE - Press F11 to exit full screen mode.",
+    "exit_full_screen_mode": "Premi F11 per uscire dallo schermo intero",
 		"homepage_link": "Pannello di controllo",
 		"knowledge_base_link": "Archivio",
 		"languages": {
@@ -114,7 +114,7 @@
 		"logo_subtitle": "",
 		"logo_title": "Valutazione d'impatto sulla protezione dei dati",
 		"pia_example_link": "Esempio PIA",
-		"structures": "TO BE TRANSLATED - Modèles de PIA",
+		"structures": "Modelli PIA",
 		"tools": {
 			"about": "Informazioni",
 			"accessibility": "Accessibilità per ipovedenti (colori ad alto contrasto, daltonismo)",
@@ -171,11 +171,11 @@
 			"date": "Data",
 			"evaluation": "Revisore",
 			"import_pia": "Importa PIA",
-			"import_structure": "TO BE TRANSLATED - Import template",
+			"import_structure": "Importa template",
 			"item": {
 				"consult_pia": "Visualizza PIA",
 				"edit_pia": "Modifica PIA",
-				"edit_structure": "TO BE TRANSLATED - Éditer le modèle",
+				"edit_structure": "Edita il modello",
 				"tools": {
 					"action_plan": "Mostra<br>il piano d'azione",
 					"duplicate": "Crea una copia",
@@ -186,26 +186,26 @@
 				}
 			},
 			"new_pia": "Nuova PIA",
-			"new_structure": "TO BE TRANSLATED - Nouveau modèle",
+			"new_structure": "Nuovo modello",
 			"or": "oppure",
 			"pia_name": "PIA",
 			"placeholder_author": "Cognome, nome",
 			"placeholder_evaluation": "Cognome, nome",
 			"placeholder_import_pia": "Importa PIA",
-			"placeholder_import_structure": "TO BE TRANSLATED - Importer modèle",
+			"placeholder_import_structure": "Importa modello",
 			"placeholder_new_pia": "Nuova PIA",
-			"placeholder_new_structure": "TO BE TRANSLATED - Nouveau modèle",
+			"placeholder_new_structure": "Nuovo modello",
 			"placeholder_pia_name": "Nome della PIA",
-			"placeholder_sector_name": "TO BE TRANSLATED - Intitulé du Secteur associé",
+			"placeholder_sector_name": "Titolo del settore associato",
 			"placeholder_start": "Tutti i campi sono obbligatori",
-			"placeholder_structure": "TO BE TRANSLATED - Modèle par défaut",
-			"placeholder_structure_name": "TO BE TRANSLATED - Intitulé du modèle",
+			"placeholder_structure": "Modello predefinito",
+			"placeholder_structure_name": "Titolo del modello",
 			"placeholder_validation": "Cognome, nome",
-			"sector_name": "TO BE TRANSLATED - Secteur associé",
+			"sector_name": "Settore associato",
 			"start": "Avvio",
 			"status": "Stato",
-			"structure": "TO BE TRANSLATED - Modèle",
-			"structure_name": "TO BE TRANSLATED - Nom du modèle",
+			"structure": "Modello",
+			"structure_name": "Nome del modello",
 			"title_close_creation": "Chiudi",
 			"validation": "Validatore"
 		},
@@ -214,17 +214,17 @@
 			"author": "Autore",
 			"card": "Tabella",
 			"card_rocket_content": "Inizia! Per impostare <br>una PIA, clicca sul +",
-			"card_rocket_content_structure": "TO BE TRANSLATED - Lancez-vous !<br><br>Pour commencer<br>un modèle, cliquez<br> sur le +",
+			"card_rocket_content_structure": "Inizia !<br><br>Per iniziare<br>un modello, clicca<br> sul +",
 			"date": "Data",
 			"import_pia": "Importa PIA",
-			"import_structure": "TO BE TRANSLATED - Importer modèle",
+			"import_structure": "Importa modello",
 			"list": "Lista",
 			"list_rocket_content": "Inizia! Per impostare <br>una PIA, clicca sul +",
-			"list_rocket_content_structure": "TO BE TRANSLATED - Lancez-vous ! Pour commencer<br>un modèle, cliquez sur le +",
+			"list_rocket_content_structure": "Inizia ! Per iniziare<br>un modello, clicca sul +",
 			"name": "Nome",
 			"new_pia": "Nuova PIA",
-			"new_structure": "TO BE TRANSLATED - Nouveau modèle",
-			"sector_name": "TO BE TRANSLATED - Secteur associé",
+			"new_structure": "Nuovo modello",
+			"sector_name": "Settore associato",
 			"sort": "Ordina",
 			"sort_by": "per",
 			"status": "Stato",
@@ -237,10 +237,10 @@
 			"column_evaluation": "Revisore",
 			"column_pia": "PIA",
 			"column_progression": "Avanzamento",
-			"column_sector_name": "TO BE TRANSLATED - Secteur associé",
+			"column_sector_name": "Settore associato",
 			"column_status": "Stato",
-			"column_structure": "TO BE TRANSLATED - Modèle",
-			"column_structure_name": "TO BE TRANSLATED - Modèle",
+			"column_structure": "Modello",
+			"column_structure_name": "Modello",
 			"column_updated_at": "Cronologia",
 			"column_validation": "Validatore",
 			"item": {
@@ -863,10 +863,10 @@
 			"review_section": "Valuta una sezione"
 		},
 		"import_wrong_pia_file": {
-			"content": "TO BE TRANSLATED - Le fichier importé ne correspond pas à un fichier de type PIA"
+			"content": "Il file importato non corrisponde ad un file di tipo PIA"
 		},
 		"import_wrong_structure_file": {
-			"content": "TO BE TRANSLATED - Le fichier importé ne correspond pas à un fichier de type Modèle"
+			"content": "Il file importato non corrisponde ad un file di tipo modello"
 		},
 		"modal_select_text_pia": {
 			"content": "I contenuti della PIA sono stati copiati negli appunti."
@@ -893,13 +893,13 @@
 			"remove": "Cancella questa PIA"
 		},
 		"remove_question": {
-			"content": "TO BE TRANSLATED - Souhaitez-vous supprimer la question ?",
-			"keep": "TO BE TRANSLATED - Annuler",
-			"remove": "TO BE TRANSLATED - Supprimer"
+			"content": "Vuoi eliminare la domanda ?",
+			"keep": "Annulla",
+			"remove": "Rimuovi"
 		},
 		"remove_structure": {
-			"content": "TO BE TRANSLATED - <span class='strong'>Attention,</span><br>Êtes-vous sûr de vouloir<br>supprimer ce modèle ?",
-			"remove": "TO BE TRANSLATED - Supprimer ce modèle"
+			"content": "<span class='strong'>Attenzione,</span><br>Sei sicuro di voler<br>rimuovere questo modello ?",
+			"remove": "Rimuovi il modello"
 		},
 		"same_comment": {
 			"content": "<span class='strong'>Attenzione,</span><br>Inserire un commento diverso dall'ultimo inserito."
@@ -913,7 +913,7 @@
 		},
 		"start_evaluation": "Inizia valutazione",
 		"update_server_url_nok": {
-			"content": "TO BE TRANSLATED - Connection impossible."
+			"content": "Connessione non riuscita."
 		},
 		"update_server_url_ok": {
 			"content": "L'indirizzo del server è stato aggiornato."
@@ -965,7 +965,7 @@
 		"footer": {
 			"ask_evaluation": "Richiedi una revisione",
 			"mandatory_fields": "Tutti i campi sono obbligatori",
-			"structure_add_question": "TO BE TRANSLATED - Ajouter une question",
+			"structure_add_question": "Aggiungi una domanda",
 			"subsection_validated": "Sezione rivista, in attesa di validazione finale",
 			"validate_evaluation": "Valida revisione"
 		},
@@ -976,7 +976,7 @@
 			"preview": "Anteprima"
 		},
 		"sections": {
-			"based_on_structure_name": "TO BE TRANSLATED - Basé sur le modèle :",
+			"based_on_structure_name": "Basato sul modello :",
 			"homepage_link": "Torna al pannello di controllo",
 			"refuse_pia": "Rifiuta PIA",
 			"status": {
@@ -1013,8 +1013,8 @@
 			"3": "Importante",
 			"4": "Massimo"
 		},
-		"placeholder_title": "TO BE TRANSLATED - Titre de la question (obligatoire)",
-		"remove": "TO BE TRANSLATED - Supprimer la question"
+		"placeholder_title": "Titolo della domanda (obbligatorio)",
+		"remove": "Rimuovi la domanda"
 	},
 	"rejection_page": {
 		"applied_adjustments": "Modifiche apportate",
@@ -1304,8 +1304,8 @@
 			"0": "Il trattamento non dovrebbe essere implementato.",
 			"1": "Il trattamento può essere implementato."
 		},
-    "generate_zip": "TO TRANSLATE - Download the full report (.zip)",
-    "generate_docx": "TO TRANSLATE - Download the report (.docx)",
+    "generate_zip": "Scarica il report completo (.zip)",
+    "generate_docx": "Scarica il report (.docx)",
 		"creation_date": "Data di creazione",
 		"csv_action_plan_comment": "Commento sul piano di azione",
 		"csv_evaluation_comment": "Commento sulla valutazione",
@@ -1315,7 +1315,7 @@
 		"csv_section": "Sezione",
 		"csv_title_object": "Titolo",
 		"display_filters": {
-      "check_all": "TO TRANSLATE - Enable / disable all display filters",
+      "check_all": "Abilita / disabilita tutti i filtri di visualizzazione",
 			"action_plan_content": "Visualizza piano d'azione",
 			"context_content": "Visualizza \"Contesto\"",
 			"main_content": "Visualizza \"Informazioni sulla PIA\"",
